@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency Exchange rate</string>
+    <string name="switch_title">Swipe to switch from BTC to ETH</string>
+</resources>
